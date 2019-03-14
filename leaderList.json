@@ -41,5 +41,31 @@
       { "id": "byron", "src": "https://cdn.bulbagarden.net/upload/thumb/2/25/Diamond_Pearl_Byron.png/160px-Diamond_Pearl_Byron.png" },
       { "id": "candice", "src": "https://cdn.bulbagarden.net/upload/thumb/1/1a/Diamond_Pearl_Candice.png/200px-Diamond_Pearl_Candice.png" },
       { "id": "volkner", "src": "https://cdn.bulbagarden.net/upload/thumb/8/83/Diamond_Pearl_Volkner.png/160px-Diamond_Pearl_Volkner.png" }
+    ],
+    "Unova": [
+      { "id": "cilan", "src": "https://cdn.bulbagarden.net/upload/thumb/f/fc/Black_White_Cilan.png/150px-Black_White_Cilan.png" },
+      { "id": "chili", "src": "https://cdn.bulbagarden.net/upload/thumb/f/ff/Black_White_Chili.png/185px-Black_White_Chili.png" },
+      { "id": "cress", "src": "https://cdn.bulbagarden.net/upload/thumb/5/51/Black_White_Cress.png/180px-Black_White_Cress.png" },
+      { "id": "lenora", "src": "https://cdn.bulbagarden.net/upload/thumb/b/b8/Black_White_Lenora_2.png/200px-Black_White_Lenora_2.png" },
+      { "id": "burgh", "src": "https://cdn.bulbagarden.net/upload/thumb/a/ae/Black_White_Burgh.png/180px-Black_White_Burgh.png" },
+      { "id": "elesa", "src": "https://cdn.bulbagarden.net/upload/thumb/4/40/Black_2_White_2_Elesa.png/240px-Black_2_White_2_Elesa.png" },
+      { "id": "clay", "src": "https://cdn.bulbagarden.net/upload/thumb/d/d0/Black_White_Clay.png/185px-Black_White_Clay.png" },
+      { "id": "skyla", "src": "https://cdn.bulbagarden.net/upload/thumb/8/80/Black_White_Skyla.png/185px-Black_White_Skyla.png" },
+      { "id": "brycen", "src": "https://cdn.bulbagarden.net/upload/thumb/b/b5/Black_White_Brycen.png/185px-Black_White_Brycen.png" },
+      { "id": "drayden", "src": "https://cdn.bulbagarden.net/upload/thumb/7/7a/Black_White_Drayden.png/185px-Black_White_Drayden.png" },
+      { "id": "iris", "src": "https://cdn.bulbagarden.net/upload/thumb/d/d0/Black_2_White_2_Iris.png/275px-Black_2_White_2_Iris.png" },
+      { "id": "cheren", "src": "https://cdn.bulbagarden.net/upload/thumb/2/2b/Black_2_White_2_Cheren.png/129px-Black_2_White_2_Cheren.png" },
+      { "id": "roxie", "src": "https://cdn.bulbagarden.net/upload/thumb/4/41/Black_2_White_2_Roxie.png/200px-Black_2_White_2_Roxie.png" },
+      { "id": "marlon", "src": "https://cdn.bulbagarden.net/upload/thumb/e/e2/Black_2_White_2_Marlon.png/200px-Black_2_White_2_Marlon.png" }
+    ],
+    "Kalos": [
+      { "id": "viola", "src": "https://cdn.bulbagarden.net/upload/thumb/2/2a/XY_Viola.png/140px-XY_Viola.png" },
+      { "id": "grant", "src": "https://cdn.bulbagarden.net/upload/thumb/3/37/XY_Grant.png/250px-XY_Grant.png" },
+      { "id": "korrina", "src": "https://cdn.bulbagarden.net/upload/thumb/2/2b/XY_Korrina.png/300px-XY_Korrina.png" },
+      { "id": "ramos", "src": "https://cdn.bulbagarden.net/upload/thumb/b/b8/XY_Ramos.png/180px-XY_Ramos.png" },
+      { "id": "clemont", "src": "https://cdn.bulbagarden.net/upload/thumb/d/d1/XY_Clemont.png/230px-XY_Clemont.png" },
+      { "id": "valerie", "src": "https://cdn.bulbagarden.net/upload/thumb/1/18/XY_Valerie.png/300px-XY_Valerie.png" },
+      { "id": "olympia", "src": "https://cdn.bulbagarden.net/upload/thumb/5/53/XY_Olympia.png/320px-XY_Olympia.png" },
+      { "id": "wulfric", "src": "https://cdn.bulbagarden.net/upload/thumb/c/c7/XY_Wulfric.png/300px-XY_Wulfric.png" }
     ]
   }

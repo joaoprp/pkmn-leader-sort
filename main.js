@@ -9,10 +9,10 @@ const drag = (ev) => {
 const drop = (ev) => {
   ev.preventDefault();
   var data = ev.dataTransfer.getData("text");
-  if (event.target === event.currentTarget) {
-    event.currentTarget.appendChild(document.getElementById(data));
+  if (ev.target === ev.currentTarget) {
+    ev.currentTarget.appendChild(document.getElementById(data));
   } else {
-    event.currentTarget.insertBefore(document.getElementById(data), event.target.closest('.draggablePage'));
+    ev.currentTarget.insertBefore(document.getElementById(data), ev.target.closest('.draggablePage'));
   }
 };
 
@@ -35,7 +35,7 @@ fetch('leaderList.json')
           el.src = leader.src;
           el.id = leader.id;
           el.draggable = true;
-          el.ondragstart = () => drag(event);
+          el.ondragstart = (event) => drag(event);
     
           ret.appendChild(el);
         }

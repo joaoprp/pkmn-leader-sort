@@ -1,0 +1,45 @@
+{
+    "Kanto": [
+      { "id": "brock", "src": "https://cdn.bulbagarden.net/upload/thumb/a/a6/Lets_Go_Pikachu_Eevee_Brock.png/121px-Lets_Go_Pikachu_Eevee_Brock.png" },
+      { "id": "misty", "src": "https://cdn.bulbagarden.net/upload/thumb/f/f6/Lets_Go_Pikachu_Eevee_Misty.png/183px-Lets_Go_Pikachu_Eevee_Misty.png" },
+      { "id": "lt-surge", "src": "https://cdn.bulbagarden.net/upload/thumb/b/bc/Lets_Go_Pikachu_Eevee_Lt_Surge.png/216px-Lets_Go_Pikachu_Eevee_Lt_Surge.png" },
+      { "id": "erika", "src": "https://cdn.bulbagarden.net/upload/thumb/4/47/Lets_Go_Pikachu_Eevee_Erika.png/185px-Lets_Go_Pikachu_Eevee_Erika.png" },
+      { "id": "koga", "src": "https://cdn.bulbagarden.net/upload/thumb/f/f4/Lets_Go_Pikachu_Eevee_Koga.png/225px-Lets_Go_Pikachu_Eevee_Koga.png" },
+      { "id": "janine", "src": "https://cdn.bulbagarden.net/upload/thumb/9/9a/HeartGold_SoulSilver_Janine.png/185px-HeartGold_SoulSilver_Janine.png" },
+      { "id": "sabrina", "src": "https://cdn.bulbagarden.net/upload/thumb/7/78/Lets_Go_Pikachu_Eevee_Sabrina.png/211px-Lets_Go_Pikachu_Eevee_Sabrina.png" },
+      { "id": "blaine", "src": "https://cdn.bulbagarden.net/upload/thumb/c/c8/Lets_Go_Pikachu_Eevee_Blaine.png/216px-Lets_Go_Pikachu_Eevee_Blaine.png" },
+      { "id": "giovanni", "src": "https://cdn.bulbagarden.net/upload/thumb/a/a7/Lets_Go_Pikachu_Eevee_Giovanni.png/250px-Lets_Go_Pikachu_Eevee_Giovanni.png" },
+      { "id": "blue", "src": "https://cdn.bulbagarden.net/upload/thumb/1/1a/Lets_Go_Pikachu_Eevee_Blue.png/154px-Lets_Go_Pikachu_Eevee_Blue.png" }
+    ],
+    "Johto": [
+      { "id": "falkner", "src": "https://cdn.bulbagarden.net/upload/thumb/e/e0/HeartGold_SoulSilver_Falkner.png/200px-HeartGold_SoulSilver_Falkner.png" },
+      { "id": "bugsy", "src": "https://cdn.bulbagarden.net/upload/thumb/6/6b/HeartGold_SoulSilver_Bugsy.png/165px-HeartGold_SoulSilver_Bugsy.png" },
+      { "id": "whitney", "src": "https://cdn.bulbagarden.net/upload/thumb/e/e1/HeartGold_SoulSilver_Whitney.png/180px-HeartGold_SoulSilver_Whitney.png" },
+      { "id": "morty", "src": "https://cdn.bulbagarden.net/upload/thumb/1/1c/HeartGold_SoulSilver_Morty.png/150px-HeartGold_SoulSilver_Morty.png" },
+      { "id": "chuck", "src": "https://cdn.bulbagarden.net/upload/thumb/b/bd/HeartGold_SoulSilver_Chuck.png/200px-HeartGold_SoulSilver_Chuck.png" },
+      { "id": "jasmine", "src": "https://cdn.bulbagarden.net/upload/thumb/b/b3/HeartGold_SoulSilver_Jasmine.png/150px-HeartGold_SoulSilver_Jasmine.png" },
+      { "id": "pryce", "src": "https://cdn.bulbagarden.net/upload/thumb/0/02/HeartGold_SoulSilver_Pryce.png/180px-HeartGold_SoulSilver_Pryce.png" },
+      { "id": "clair", "src": "https://cdn.bulbagarden.net/upload/thumb/f/fe/HeartGold_SoulSilver_Clair.png/200px-HeartGold_SoulSilver_Clair.png" }
+    ],
+    "Hoenn": [
+      { "id": "roxanne", "src": "https://cdn.bulbagarden.net/upload/thumb/b/bd/Omega_Ruby_Alpha_Sapphire_Roxanne.png/140px-Omega_Ruby_Alpha_Sapphire_Roxanne.png" },
+      { "id": "brawly", "src": "https://cdn.bulbagarden.net/upload/thumb/2/23/Omega_Ruby_Alpha_Sapphire_Brawly.png/145px-Omega_Ruby_Alpha_Sapphire_Brawly.png" },
+      { "id": "wattson", "src": "https://cdn.bulbagarden.net/upload/thumb/a/a0/Omega_Ruby_Alpha_Sapphire_Wattson.png/150px-Omega_Ruby_Alpha_Sapphire_Wattson.png" },
+      { "id": "flannery", "src": "https://cdn.bulbagarden.net/upload/thumb/b/ba/Omega_Ruby_Alpha_Sapphire_Flannery.png/180px-Omega_Ruby_Alpha_Sapphire_Flannery.png" },
+      { "id": "norman", "src": "https://cdn.bulbagarden.net/upload/thumb/0/05/Omega_Ruby_Alpha_Sapphire_Norman.png/150px-Omega_Ruby_Alpha_Sapphire_Norman.png" },
+      { "id": "winona", "src": "https://cdn.bulbagarden.net/upload/thumb/9/96/Omega_Ruby_Alpha_Sapphire_Winona.png/250px-Omega_Ruby_Alpha_Sapphire_Winona.png" },
+      { "id": "tate-liza", "src": "https://cdn.bulbagarden.net/upload/thumb/0/09/Omega_Ruby_Alpha_Sapphire_Liza_%26_Tate.png/180px-Omega_Ruby_Alpha_Sapphire_Liza_%26_Tate.png" },
+      { "id": "wallace", "src": "https://cdn.bulbagarden.net/upload/thumb/e/e5/Omega_Ruby_Alpha_Sapphire_Wallace.png/230px-Omega_Ruby_Alpha_Sapphire_Wallace.png" },
+      { "id": "juan", "src": "https://cdn.bulbagarden.net/upload/thumb/d/d0/Emerald_Juan.png/140px-Emerald_Juan.png" }
+    ],
+    "Sinnoh": [
+      { "id": "roark", "src": "https://cdn.bulbagarden.net/upload/thumb/8/86/Diamond_Pearl_Roark.png/140px-Diamond_Pearl_Roark.png" },
+      { "id": "gardenia", "src": "https://cdn.bulbagarden.net/upload/thumb/e/e9/Diamond_Pearl_Gardenia.png/200px-Diamond_Pearl_Gardenia.png" },
+      { "id": "maylene", "src": "https://cdn.bulbagarden.net/upload/thumb/1/15/Diamond_Pearl_Maylene.png/250px-Diamond_Pearl_Maylene.png" },
+      { "id": "crasher-wake", "src": "https://cdn.bulbagarden.net/upload/thumb/a/a1/Diamond_Pearl_Crasher_Wake.png/240px-Diamond_Pearl_Crasher_Wake.png" },
+      { "id": "fantina", "src": "https://cdn.bulbagarden.net/upload/thumb/e/ef/Diamond_Pearl_Fantina.png/260px-Diamond_Pearl_Fantina.png" },
+      { "id": "byron", "src": "https://cdn.bulbagarden.net/upload/thumb/2/25/Diamond_Pearl_Byron.png/160px-Diamond_Pearl_Byron.png" },
+      { "id": "candice", "src": "https://cdn.bulbagarden.net/upload/thumb/1/1a/Diamond_Pearl_Candice.png/200px-Diamond_Pearl_Candice.png" },
+      { "id": "volkner", "src": "https://cdn.bulbagarden.net/upload/thumb/8/83/Diamond_Pearl_Volkner.png/160px-Diamond_Pearl_Volkner.png" }
+    ]
+  }

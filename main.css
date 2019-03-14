@@ -1,0 +1,37 @@
+* {
+    font-family: 'Fira Code';
+}
+
+div {
+    display: flex;
+}
+
+.drop-area {
+    flex: 1;
+    margin-left: 10px;
+}
+
+.row {
+    min-height: 40px;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #0c0c0c;
+}
+
+.title-box {
+    min-height: 120px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-height: 120px;
+}
+
+.red { background-color: rgb(255, 127, 127); }
+.orange { background-color: rgb(255, 191, 127); }
+.yellowish { background-color: rgb(255, 223, 127); }
+.yellow { background-color: rgb(255, 255, 127); }
+.green { background-color: rgb(127, 255, 127); }
